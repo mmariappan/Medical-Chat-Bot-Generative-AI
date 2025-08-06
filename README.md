@@ -1,1 +1,1 @@
-# Medical-Chat-Bot-Generative-AI
+# Medical Chat Bot Using Generative AI

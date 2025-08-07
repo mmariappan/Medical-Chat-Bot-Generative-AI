@@ -16,3 +16,11 @@
    ```
    pip install -r requirements.txt
    ```
+4. Create setup.py to create local package
+5. Create template.py for creating folder structure
+6. Check-in using git bash
+   git add .
+   git commit -m "Added folder structure using template.py"
+   git push origin main
+
+7.
